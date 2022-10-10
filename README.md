@@ -1,4 +1,4 @@
-# WinFormsRelatorio
+# WinFormsRelatorio .Net 6
 
 para que o projeto funcione corretamente será necessário ter instalado a extensão:
 1 - Vá em Extensions/Manage Extensions - procure por rdlc (Microsoft RDLC Report Designer 2022), faça a instalação dele.
