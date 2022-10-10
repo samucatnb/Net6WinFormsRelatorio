@@ -1,4 +1,4 @@
-namespace WinFormsRelatorio
+namespace Net6WinFormsRelatorio
 {
   public partial class Form1 : Form
   {
